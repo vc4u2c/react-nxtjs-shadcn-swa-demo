@@ -1,0 +1,7 @@
+{
+  "dev": "Development",
+  "qa": "QA",
+  "stg": "Staging",
+  "dr": "DR",
+  "prd": "Production"
+}

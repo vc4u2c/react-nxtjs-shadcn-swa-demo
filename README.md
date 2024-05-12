@@ -28,6 +28,19 @@ npx shadcn-ui@latest add input
 npx shadcn-ui@latest add form
 ```
 
+## GitHub Setup
+
+```bash
+
+```
+
+## Azure Setup
+
+```bash
+# Create Resource Group
+
+```
+
 ## Running the application
 
 First, run the development server:
